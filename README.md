@@ -17,8 +17,8 @@ A powerful static analysis tool for Solana smart contracts written in Rust. Dete
 
 ### From Source
 ```bash
-git clone https://github.com/your-org/rust-solana-analyzer.git
-cd rust-solana-analyzer
+git clone https://github.com/0xRustPro/solana-static-analyzer.git
+cd solana-static-analyzer
 cargo build --release
 ```
 
@@ -149,8 +149,8 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 ### Development Setup
 
 ```bash
-git clone https://github.com/your-org/rust-solana-analyzer.git
-cd rust-solana-analyzer
+git clone https://github.com/0xRustPro/solana-static-analyzer.git
+cd solana-static-analyzer
 cargo build
 cargo test
 ```
@@ -167,10 +167,6 @@ cargo test
   </a>
 </div>
 
-## Support
-
-- X [ Twitter ](https://x.com/Seecoalba)
-- Email: git.seco@protonmail.com
 
 ## License
 
